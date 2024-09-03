@@ -1,0 +1,13 @@
+pandas: 1.5.3
+numpy: 1.23.5
+scipy: 1.11.4
+matplotlib: 3.9.2
+seaborn: 0.13.2
+missingno: 0.5.2
+IPython: 8.18.1
+sklearn: 1.2.2
+category_encoders: 2.6.3
+xgboost: 2.1.1
+lightgbm: 4.5.0
+mlxtend: 0.23.1
+imblearn: 0.12.3
